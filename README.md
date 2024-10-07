@@ -24,3 +24,5 @@ npm install
 node index.js
 
 หากสำเร็จจะแสดงข้อความ Server is running on port 5000
+
+![image](https://github.com/user-attachments/assets/61a8820a-f061-4d1b-a9ed-5b0ae78567c7)

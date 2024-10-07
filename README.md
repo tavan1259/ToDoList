@@ -30,4 +30,10 @@ node index.js
 
 # การใช้งาน
 สร้าง task โดยกดไปที่ปุ่ม Add Task
+
 ![image](https://github.com/user-attachments/assets/36033416-ef60-4502-8f33-6dff22c805b4)
+
+กรอกข้อมูลให้ครบ ทั้ง Title Description Due เมื่อกรอกเสร็จสิ้นกดปุ่ม AddTask เพื่อเพิ่มข้อมูล
+
+![image](https://github.com/user-attachments/assets/c9fa152d-0239-4187-a97a-15f6c603af37)
+

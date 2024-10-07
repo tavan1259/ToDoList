@@ -35,5 +35,9 @@ node index.js
 
 กรอกข้อมูลให้ครบ ทั้ง Title Description Due เมื่อกรอกเสร็จสิ้นกดปุ่ม AddTask เพื่อเพิ่มข้อมูล
 
-![image](https://github.com/user-attachments/assets/c9fa152d-0239-4187-a97a-15f6c603af37)
+![image](https://github.com/user-attachments/assets/34ab8531-62f3-4ab4-ba6a-934d518921e2)
+
+เมื่อเสร็จสิ้นข้อมูลจะนำแสดงด้านล่างสุดของข้อมูล
+
+![image](https://github.com/user-attachments/assets/4fc91158-f87f-4cac-a50e-0061120d469b)
 

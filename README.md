@@ -52,3 +52,11 @@ node index.js
 (ข้อมูลหลังถูกแก้ไข)
 
 ![image](https://github.com/user-attachments/assets/4febd1b9-f846-4319-8849-eae77b4af843)
+
+หากต้องการลบข้อมูลสามารถกดปุ่มถังขยะเพื่อรถข้อมูลได้
+
+![image](https://github.com/user-attachments/assets/ded74dc7-0260-40b1-a9fc-931876ca3c1b)
+
+เมื่อลบข้อมูลจะมีการถามยืนยันการลบขึ้นมาแสดง
+
+![image](https://github.com/user-attachments/assets/a761f7ff-4c10-434c-831d-890329c41bc6)

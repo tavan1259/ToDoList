@@ -45,3 +45,10 @@ node index.js
 
 ![image](https://github.com/user-attachments/assets/c25aca12-2b85-43c3-ab65-55c16dbad699)
 
+กรอกข้อมูลแก้ไขเสร็จ กดปุ่ม Edit task เพื่อแก้ไขได้เลย
+
+![image](https://github.com/user-attachments/assets/b2a74de5-cb54-438f-8a5c-9bf5f920c52a)
+
+(ข้อมูลหลังถูกแก้ไข)
+
+![image](https://github.com/user-attachments/assets/4febd1b9-f846-4319-8849-eae77b4af843)

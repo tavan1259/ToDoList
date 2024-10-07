@@ -29,8 +29,8 @@ node index.js
 ![image](https://github.com/user-attachments/assets/61a8820a-f061-4d1b-a9ed-5b0ae78567c7)
 
 # การใช้งาน
+## การเพิ่มข้อมูล
 สร้าง task โดยกดไปที่ปุ่ม Add Task
-
 ![image](https://github.com/user-attachments/assets/36033416-ef60-4502-8f33-6dff22c805b4)
 
 กรอกข้อมูลให้ครบ ทั้ง Title Description Due เมื่อกรอกเสร็จสิ้นกดปุ่ม AddTask เพื่อเพิ่มข้อมูล
@@ -41,6 +41,7 @@ node index.js
 
 ![image](https://github.com/user-attachments/assets/4fc91158-f87f-4cac-a50e-0061120d469b)
 
+## การแก้ไขข้อมูล
 หากต้องการแก้ไข้ข้อมูลที่สร้างไปแล้ว สามารถกดดินสอสีเขียวเพื่อเข้าไปแก้ไขได้
 
 ![image](https://github.com/user-attachments/assets/c25aca12-2b85-43c3-ab65-55c16dbad699)
@@ -53,6 +54,7 @@ node index.js
 
 ![image](https://github.com/user-attachments/assets/4febd1b9-f846-4319-8849-eae77b4af843)
 
+## การลบข้อมูล
 หากต้องการลบข้อมูลสามารถกดปุ่มถังขยะเพื่อรถข้อมูลได้
 
 ![image](https://github.com/user-attachments/assets/ded74dc7-0260-40b1-a9fc-931876ca3c1b)

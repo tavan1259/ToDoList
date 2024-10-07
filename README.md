@@ -26,11 +26,13 @@ node index.js
 หากสำเร็จจะแสดงข้อความ Server is running on port 5000
 
 (หน้าเว็บที่ควรจะแสดงเมือ Run frontend และ backend)
+
 ![image](https://github.com/user-attachments/assets/61a8820a-f061-4d1b-a9ed-5b0ae78567c7)
 
 # การใช้งาน
 ## การเพิ่มข้อมูล
 สร้าง task โดยกดไปที่ปุ่ม Add Task
+
 ![image](https://github.com/user-attachments/assets/36033416-ef60-4502-8f33-6dff22c805b4)
 
 กรอกข้อมูลให้ครบ ทั้ง Title Description Due เมื่อกรอกเสร็จสิ้นกดปุ่ม AddTask เพื่อเพิ่มข้อมูล

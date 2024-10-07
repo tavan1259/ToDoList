@@ -1,12 +1,12 @@
 # Run Frontend
-in \front-end-test path
-
+เปิด terminal แล้วไปยังpath "\front-end-test" 
+พิมพ์คำสั่งดังนี้
 npm install
 
 npm run dev
 
 # Run backend
-\front-end-test\backend path
+go to "\front-end-test\backend" path
 
 npm install
 

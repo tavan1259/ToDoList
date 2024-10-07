@@ -1,5 +1,5 @@
 # Run project
-###in \front-end-test path
+### in \front-end-test path
 npm install
 npm run dev
 

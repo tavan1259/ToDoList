@@ -1,6 +1,6 @@
 # Run project
 in \front-end-test path
-npm install
+npm install\n
 npm run dev
 
 # Run backend

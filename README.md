@@ -41,3 +41,7 @@ node index.js
 
 ![image](https://github.com/user-attachments/assets/4fc91158-f87f-4cac-a50e-0061120d469b)
 
+หากต้องการแก้ไข้ข้อมูลที่สร้างไปแล้ว สามารถกดดินสอสีเขียวเพื่อเข้าไปแก้ไขได้
+
+![image](https://github.com/user-attachments/assets/c25aca12-2b85-43c3-ab65-55c16dbad699)
+

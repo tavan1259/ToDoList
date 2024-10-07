@@ -1,9 +1,11 @@
 # Run project
+
+## Run Frontend
 ### in \front-end-test path
 ### npm install
 ### npm run dev
 
-# Run backend
+## Run backend
 ### in \front-end-test\backend path
 ### npm install
 ### node index.js
